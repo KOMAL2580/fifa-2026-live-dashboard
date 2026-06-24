@@ -79,3 +79,4 @@ git push -u origin main
 - Connect richer player statistics from a paid sports data API
 - Train a real scikit-learn winner prediction model
 - Add downloadable CSV exports and model feature importance
+# fifa-2026-live-dashboard
