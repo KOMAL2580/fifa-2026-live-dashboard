@@ -1,0 +1,19 @@
+match_id,minute,event_type,team,player_name,detail
+M001,14,Goal,Argentina,Lionel Messi,Argentina 1-0 France
+M001,32,Yellow Card,France,William Saliba,Late challenge
+M001,45,Goal,France,Kylian Mbappe,Argentina 1-1 France
+M001,67,Goal,Argentina,Lionel Messi,Argentina 2-1 France
+M002,18,Goal,Brazil,Vinicius Junior,Brazil 1-0 Germany
+M002,38,Goal,Germany,Jamal Musiala,Brazil 1-1 Germany
+M002,61,Yellow Card,Brazil,Casemiro,Tactical foul
+M004,9,Goal,Portugal,Cristiano Ronaldo,Spain 0-1 Portugal
+M004,28,Goal,Spain,Pedri,Spain 1-1 Portugal
+M004,49,Goal,Spain,Alvaro Morata,Spain 2-1 Portugal
+M004,63,Goal,Portugal,Cristiano Ronaldo,Spain 2-2 Portugal
+M004,77,Goal,Spain,Nico Williams,Spain 3-2 Portugal
+M005,21,Goal,England,Harry Kane,England 1-0 Netherlands
+M005,58,Goal,Netherlands,Cody Gakpo,England 1-1 Netherlands
+M007,39,Goal,Croatia,Andre Kramaric,Japan 0-1 Croatia
+M007,82,Goal,Croatia,Andre Kramaric,Japan 0-2 Croatia
+M008,24,Goal,Morocco,Hakim Ziyech,Morocco 1-0 Belgium
+M008,73,Goal,Morocco,Youssef En-Nesyri,Morocco 2-0 Belgium

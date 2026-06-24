@@ -1,0 +1,9 @@
+match_id,competition,status,minute,home_team,away_team,home_goals,away_goals,home_possession,away_possession,home_shots,away_shots,home_xg,away_xg,home_form_points,away_form_points
+M001,FIFA World Cup,Live,67,Argentina,France,2,1,54,46,13,9,1.92,1.21,12,10
+M002,FIFA World Cup,Live,38,Brazil,Germany,1,1,49,51,7,8,0.88,0.94,11,9
+M003,FIFA Club World Cup,Upcoming,0,Manchester City,Real Madrid,0,0,50,50,0,0,0.00,0.00,13,12
+M004,FIFA World Cup,Finished,90,Spain,Portugal,3,2,58,42,15,10,2.31,1.44,10,8
+M005,FIFA World Cup,Finished,90,England,Netherlands,1,1,52,48,11,12,1.12,1.27,9,11
+M006,FIFA Club World Cup,Upcoming,0,Bayern Munich,Inter Milan,0,0,50,50,0,0,0.00,0.00,10,9
+M007,FIFA World Cup,Live,82,Japan,Croatia,0,2,47,53,8,14,0.77,1.86,8,12
+M008,FIFA World Cup,Finished,90,Morocco,Belgium,2,0,39,61,9,13,1.51,0.98,12,7
