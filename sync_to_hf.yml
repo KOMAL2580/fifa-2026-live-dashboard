@@ -21,4 +21,4 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           # Replace 'your-hf-username' and 'your-space-name' with your actual details
-          git push --force https:///komalp98:$HF_TOKEN@huggingface.co/spaces/komalp98/football-analytics-dashboard.main
+          git push --force https:///komalp98:$HF_TOKEN@huggingface.co/spaces/komalp98/football-analytics-dashboard main
